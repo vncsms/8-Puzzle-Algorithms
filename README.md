@@ -6,7 +6,7 @@ Algoritmos para resolver o 8-puzzle
 
 ### Algoritimos:
 
-- Distância de Manhatan
+- Distância de Manhattan
 - A*
 - Profundidade
 - Largura
