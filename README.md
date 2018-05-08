@@ -14,4 +14,4 @@ Algoritmos para resolver o 8-puzzle
 ### Execução:
 
 - Compile e execute qualquer algoritmo passando o estado inicial como parametro:
-- `./h1.out 8_7654321`
+- `./h1 8_7654321`
