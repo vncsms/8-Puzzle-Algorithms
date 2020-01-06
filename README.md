@@ -13,15 +13,16 @@ Algoritmos para resolver o 8-puzzle
 
 ### Execução:
 
-- Primeiro de as permissões para compilar os arquivos:
+- Primeiro: Dê as permissões para compilar os arquivos:
 - `chmod +x compila.sh`
-- Segundo compila os arquivos:
+- Segundo: Compile os arquivos:
 - `./compila.sh`
 - Depois escolha a algoritmo a ser usado:
-- Heuristica 1:
+- Heurística 1:
 - `./h1 8_7654321`
-- Heuristica 2:
+- Heurística 2:
 - `./h2 8_7654321`
 - Largura:
 - `./larg 8_7654321`
-- 
+- Profundidade:
+- `./prof 8_7654321`
